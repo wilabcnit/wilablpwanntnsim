@@ -110,7 +110,7 @@ fclose(fileID);
 plot(n,PSanalytical,'b')
 hold on
 plot(n,PnoC,'*r')
-legend('Monte Carlo','Analytical')
+legend('Analytical','Monte Carlo')
 xlabel('Average number of interferers')
 ylabel('P(S)')
 

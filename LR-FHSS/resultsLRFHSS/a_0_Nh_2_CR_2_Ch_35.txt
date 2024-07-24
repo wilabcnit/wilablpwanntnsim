@@ -1,0 +1,9 @@
+Nodes: 0 ; PnoC: 1.000000
+Nodes: 500 ; PnoC: 0.715000
+Nodes: 1000 ; PnoC: 0.387000
+Nodes: 1500 ; PnoC: 0.188500
+Nodes: 2000 ; PnoC: 0.101000
+Nodes: 2500 ; PnoC: 0.045500
+Nodes: 3000 ; PnoC: 0.017500
+Nodes: 3500 ; PnoC: 0.014500
+Nodes: 4000 ; PnoC: 0.004000
