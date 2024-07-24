@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the source code for the Monte Carlo simulator used in the paper titled "Packet Collision Probability of Direct-to-Satellite IoT Systems". The simulator is designed to validate the analytical models presented in the paper by comparing them against extensive network simulations.
+This repository contains the source code for the Monte Carlo simulator used in the paper titled *"Packet Collision Probability of Direct-to-Satellite IoT Systems"*. The simulator is designed to validate the analytical models presented in the paper by comparing them against extensive network simulations.
 
 ## Repository Contents
 
