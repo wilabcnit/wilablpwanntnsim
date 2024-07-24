@@ -1,14 +1,9 @@
-Monte Carlo Simulator for Packet Collision Probability of Direct-to-Satellite IoT Systems
-Overview
+# Monte Carlo Simulator for Packet Collision Probability of Direct-to-Satellite IoT Systems
+
+##Overview
 This repository contains the source code for the Monte Carlo simulator used in the paper titled "Packet Collision Probability of Direct-to-Satellite IoT Systems". The simulator is designed to validate the analytical models presented in the paper by comparing them against extensive network simulations.
 
-Abstract
-In this paper, we investigate the probability of interference among uncoordinated devices in the uplink of direct-to-satellite Internet of Things (DtS-IoT) systems. Both the satellite spot shape and its movement along its orbital path are considered in the analysis. Specifically, we derive analytical expressions to assess the uplink success probability for two types of DtS-IoT systems: ALOHA-based and Long Range Frequency Hopping Spread Spectrum (LR-FHSS)-based. An exact closed-form solution is derived for the ALOHA-based system, while an upper bound is found for the LR-FHSS-based system. The analytical results are validated by comparison with the outcomes of extensive network simulations, demonstrating that the closed-form expressions accurately predict the probability of no collision in uncoordinated uplink transmissions. The upper bound for the LR-FHSS-based DtS-IoT system is proven to be tighter when fewer than 35 channels are available for frequency hopping. The paper also provides a comparison between DtS-IoT networks using the Long Range (LoRa) modulation scheme and those employing LR-FHSS, showing that LR-FHSS significantly enhances the number of devices that can simultaneously transmit data during a satellite pass, thereby improving uplink capacity.
-
-Repository Contents
-src/: Contains the source code for the Monte Carlo simulator.
-loRa_simulator.py: Simulation code for LoRa-based DtS-IoT systems.
-LR_FHSS_simulator.py: Simulation code for LR-FHSS-based DtS-IoT systems.
-data/: Contains example input files and simulation configuration.
-results/: Contains sample output files and simulation results.
+## Repository Contents
+LoRa/: Contains the MATLAB source code for the LoRa Monte Carlo simulator.
+LR-FHSS/: Contains the MATLAB source code for the LR-FHSS Monte Carlo simulator.
 README.md: This file.
