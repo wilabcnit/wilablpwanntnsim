@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the source code for the Monte Carlo simulator used in 
+This repository contains the source code for the LoRa and LR-FHSS Monte Carlo simulators used in 
 
 *E. Testi and E. Paolini, “Packet Collision Probability of Direct-to-Satellite IoT Systems,” IEEE Internet of Things Journal, under review.*
 
@@ -10,7 +10,7 @@ and
 
 *E. Testi and E. Paolini, “Packet collision probability analysis in contention-based direct-to-satellite IoT uplink,” Proc. 2024 IEEE Int. Symp. Pers. Indoor Mob. Radio Commun., accepted.*
 
-The simulator is designed to validate the analytical models presented in the papers by comparing them against extensive network simulations.
+The simulators are designed to validate the analytical models presented in the papers by comparing them against extensive network simulations.
 
 
 ## Repository Contents
