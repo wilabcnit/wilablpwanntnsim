@@ -18,3 +18,5 @@ The simulators are designed to validate the analytical models presented in the p
 - [**LoRa/**](LoRa/README.md): Contains the MATLAB source code for the LoRa Monte Carlo simulator.
 - [**LR-FHSS/**](LR-FHSS/README.md): Contains the MATLAB source code for the LR-FHSS Monte Carlo simulator.
 - **README.md**: This file.
+
+![Satellite scenario](satellite-connectivity-with-earth-background.jpeg)
