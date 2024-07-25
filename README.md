@@ -15,6 +15,6 @@ The simulator is designed to validate the analytical models presented in the pap
 
 ## Repository Contents
 
-- **LoRa/**(LoRa/README.md): Contains the MATLAB source code for the LoRa Monte Carlo simulator.
-- **LR-FHSS/**: Contains the MATLAB source code for the LR-FHSS Monte Carlo simulator.
+- [**LoRa/**](LoRa/README.md): Contains the MATLAB source code for the LoRa Monte Carlo simulator.
+- [**LR-FHSS/**](LR-FHSS/README.md): Contains the MATLAB source code for the LR-FHSS Monte Carlo simulator.
 - **README.md**: This file.
