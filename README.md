@@ -1,4 +1,4 @@
-# Monte Carlo Simulator for No Uplink Collision Probability of Direct-to-Satellite IoT Systems
+# Monte Carlo Simulator for Packet Collision Probability of Direct-to-Satellite IoT Systems
 
 ## Overview
 
